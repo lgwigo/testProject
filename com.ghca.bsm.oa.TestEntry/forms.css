@@ -1,0 +1,18 @@
+@CHARSET "UTF-8";
+
+.smart-form-item {
+	/* 一行多列 */
+	float: left;
+}
+
+.x-label-tag {
+	color: red;
+}
+
+.x-allowblank-tag {
+	visibility: hidden;
+}
+
+.x-notallowblank-tag {
+	visibility: visible;
+}
